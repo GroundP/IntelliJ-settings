@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio 복사" parent="Visual Studio">
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt end" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+</keymap>
