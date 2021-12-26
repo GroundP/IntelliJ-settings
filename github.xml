@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="GroundP" id="b6a84569-8704-4c78-8b3e-97ff57296e75">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
