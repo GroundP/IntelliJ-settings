@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="alt end" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
 </keymap>
