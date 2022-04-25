@@ -2,23 +2,12 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="GrepConsole">
+        <entry key="Key Promoter X">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.chrisrm.idea.MaterialThemeUI">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
