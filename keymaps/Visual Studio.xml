@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio 복사" parent="Visual Studio">
+  <action id="Console.TableResult.SetNull" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+</keymap>
