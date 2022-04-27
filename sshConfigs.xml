@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;&quot;,&quot;proxyPort&quot;:-1,&quot;proxyType&quot;:&quot;IDE_WIDE_PROXY&quot;}}" host="18.180.105.104" id="7b011f90-b97e-4115-9366-dc63a1e4e6f9" port="22" nameFormat="DESCRIPTIVE" username="groundp" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
