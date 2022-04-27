@@ -3,7 +3,7 @@
     <property name="created">2021-12-24T00:46:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-27T11:17:58</property>
+    <property name="modified">2022-04-27T11:33:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,7 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e77ce4" />
+        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
@@ -74,6 +74,11 @@
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e77ce4" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7fd99b" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -137,7 +142,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ee78a1" />
+        <option name="FOREGROUND" value="e77a7a" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
