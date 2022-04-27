@@ -1,5 +1,11 @@
 <keymap version="1" name="Visual Studio 복사" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="Console.TableResult.SetNull" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
@@ -9,4 +15,6 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
 </keymap>
