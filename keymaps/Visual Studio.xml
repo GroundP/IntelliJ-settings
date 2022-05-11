@@ -1,0 +1,23 @@
+<keymap version="1" name="Visual Studio 복사" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ForceOthersToFollowAction" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+</keymap>
