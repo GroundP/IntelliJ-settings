@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;&quot;,&quot;proxyPort&quot;:-1,&quot;proxyType&quot;:&quot;IDE_WIDE_PROXY&quot;}}" host="18.180.105.104" id="7b011f90-b97e-4115-9366-dc63a1e4e6f9" port="22" nameFormat="DESCRIPTIVE" username="groundp" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;proxyParams&quot;:{&quot;proxyHost&quot;:&quot;18.180.105.104&quot;,&quot;proxyPort&quot;:22,&quot;proxyType&quot;:&quot;HTTP&quot;,&quot;authData&quot;:{&quot;proxyAuthType&quot;:&quot;USER_AND_PASSWORD&quot;}}}" host="mongo.land.private" id="b63857c9-b03a-400c-a75a-81631a233206" port="22" nameFormat="DESCRIPTIVE" username="groundp" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
