@@ -3,7 +3,7 @@
     <property name="created">2021-12-24T00:46:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-06-07T00:55:40</property>
+    <property name="modified">2022-06-07T01:04:46</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -74,6 +74,11 @@
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e77ce4" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cc8f63" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
