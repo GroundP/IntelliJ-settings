@@ -3,7 +3,7 @@
     <property name="created">2021-12-24T00:46:36</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-06-07T01:04:46</property>
+    <property name="modified">2022-06-08T00:59:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -14,7 +14,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e0484c" />
+        <option name="FOREGROUND" value="ef7172" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
